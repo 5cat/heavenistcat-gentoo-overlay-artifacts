@@ -1,0 +1,1 @@
+# heavenistcat-gentoo-overlay-artifacts
